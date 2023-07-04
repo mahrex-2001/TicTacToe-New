@@ -1,0 +1,28 @@
+Program class: 
+This class will contain the Main method, which acts as the entry point of the program.
+In the Main method, you'll initialize the necessary objects and start the game.
+
+Board class:
+This class represents the game board. 
+It will have a data structure to store the state of the board (e.g., a 2D array or a list of lists).
+The Board class should provide methods to:
+Initialize the board.
+Display the board.
+Update the board with player moves.
+Check for a win or tie condition.
+
+Player class:
+This class represents a player.
+It can have properties to store the player's name and symbol ('X' or 'O').
+
+Game class:
+This class will handle the game logic and manage the flow of the game.
+It will contain instances of the Board and Player classes.
+The Game class should provide methods to:
+Start the game.
+Prompt players for their moves.
+Validate and handle player input.
+Update the board.
+Check for a win or tie condition.
+Declare the winner or a tie.
+Ask players if they want to play again.
