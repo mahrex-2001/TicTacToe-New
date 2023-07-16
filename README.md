@@ -3,7 +3,7 @@
 This is a simple implementation of the classic Tic-Tac-Toe game in C#. It is a console application where two players can take turns marking spaces on a 3x3 grid to achieve three in a row, either horizontally, vertically, or diagonally.
 
 ## Usage:
-- Clone the repository: git clone https://github.com/your-username/tic-tac-toe.git
+- Clone the repository: git clone https://github.com/shaunak-2001/TicTacToe-New.git
 - Open the solution in Visual Studio or your preferred C# IDE.
 - Build and run the project.
 - Follow the on-screen instructions to play the game.
